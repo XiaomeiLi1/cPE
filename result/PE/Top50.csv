@@ -1,0 +1,55 @@
+Order,Gene,Type,dbPEC,Name,Association/ function,Reference
+12,OLFML3,1,No,Olfactomedin Like 3,OLFML3 is highly expressed in human placenta and is only expressed in syncytiotrophoblastic cells on term placenta,https://pubmed-ncbi-nlm-nih-gov.access.library.unisa.edu.au/23398349/
+15,PIK3CB,2,No,"Phosphatidylinositol-4,5-Bisphosphate 3-Kinase Catalytic Subunit Beta",PIK3CB was involved in trophoblast differentiation. PIK3CB was differentially expressed in EOPE placenta and had the great power to discriminate 5 distinct subtypes in PE.,"https://pubmed-ncbi-nlm-nih-gov.access.library.unisa.edu.au/20840781/
+https://www.biorxiv.org/content/10.1101/787796v2
+https://pubmed-ncbi-nlm-nih-gov.access.library.unisa.edu.au/27160201/"
+17,OPRK1,1,No,Opioid Receptor Kappa 1,OPRK1 also has been found to be differentially expressed in EOPE placenta.,https://www-ncbi-nlm-nih-gov.access.library.unisa.edu.au/pmc/articles/PMC3917714/
+20,PRG2,1,No,"Proteoglycan 2, Pro Eosinophil Major Basic Protein",PRG2 was the most highly up-regulated mRNA in syncytiotrophoblasts of severe PE placentas.,https://pubmed.ncbi.nlm.nih.gov/28347715/
+24,TRIM24,2,No,"	Tripartite Motif Containing 24",TRIM24 is a transcriptional regulator as well as an E3 ubiquitin ligase. TRIM24  was differentially expressed in PE patients (P=7.48E-10).,https://www-ncbi-nlm-nih-gov.access.library.unisa.edu.au/pmc/articles/PMC6447911/
+30,AQP1,1,No,Aquaporin 1,"AQP1 expression was detected in placenta, embryolemma and peritoneum. AQP1 was mainly located in endotheliocytes of blood vessels and blood capillaries in placenta, endothelial cells of amniotic membrane in embryolemma, and endotheliocytes of blood capillary and small veins in peritoneum.",https://pubmed-ncbi-nlm-nih-gov.access.library.unisa.edu.au/19080511/
+31,MME,1,No,Membrane Metalloendopeptidase,"NEP, also known as CD10 (neprilysin), CALLA (common acute lymphocytic leukemia antigen), or MME (membrane metalloendopeptidase), is a zinc metalloendopeptidase with a wide tissue distribution. NEP (neprilysin) was upregulated in STBEV from women with preeclampsia.",https://www.ahajournals.org/doi/full/10.1161/HYPERTENSIONAHA.119.12707
+33,GABRB1,1,No,"	Gamma-Aminobutyric Acid Type A Receptor Subunit Beta1",GABRB1 was downregulated in preterm placentae compared to term.,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5803773/
+36,SLC1A6,1,No,"	Solute Carrier Family 1 Member 6","The amino acid transporter genes SLC1A6, SLC1A7 and SLC7A9 whose expression in human placenta is low tended to have consistently high levels of methylation across gestation.",https://www-ncbi-nlm-nih-gov.access.library.unisa.edu.au/pmc/articles/PMC6049612/
+38,TUBA4A,2,No,"	Tubulin Alpha 4a", The gene expression level of TUBA4A in PE was disturbed comparing with that in normal sample.,https://www.cancerjournal.net/article.asp?issn=0973-1482;year=2018;volume=14;issue=7;spage=1644;epage=1649;aulast=Luo
+39,STC2,1,No,"	Stanniocalcin 2",Oxidative stress also alters the expression of STC1 and STC2 which functionally protect cells from apoptosis and their expression is highly correlated with embryo implantation and decidualization,https://www-ncbi-nlm-nih-gov.access.library.unisa.edu.au/pmc/articles/PMC3343068/
+42,PRKD3,1,No,"	Protein Kinase D3",PRKD3 was upregulated in the placenta tissue of preeclampsia compared to normal placenta tissues.,https://www-ncbi-nlm-nih-gov.access.library.unisa.edu.au/pmc/articles/PMC7235730/
+44,NT5E,1,No,"	5'-Nucleotidase Ecto",NT5E is causative for the calcification disorder ACDC.,https://pubmed-ncbi-nlm-nih-gov.access.library.unisa.edu.au/21288095/
+46,PFKP,1,No,"	Phosphofructokinase, Platelet",PFKP was a differentially methylated gene in preeclampsia.,https://journals.sagepub.com/doi/pdf/10.1177/1099800413508645
+48,GADD45G,2,No,Growth Arrest And DNA Damage Inducible Gamma,"Increased expression of Gadd45a RNA & protein in pre-eclamptic patients is consistent with the oxidative stress and Inflammatory-stress related processes, associated with pre-eclampsia.","https://www.ajog.org/article/S0002-9378(06)01676-0/fulltext
+https://pubmed-ncbi-nlm-nih-gov.access.library.unisa.edu.au/24104476/
+https://pubmed-ncbi-nlm-nih-gov.access.library.unisa.edu.au/19452502/"
+50,CABLES1,1,No,"	Cdk5 And Abl Enzyme Substrate 1","These include a number of factors whose expressions are elevated in preeclampsia and which are associated with cell cycle progression including CABLES1  and  CDK2, CCNA2, CCNB1, CCNB2, CDC45L, CDC25A, CDC2, E2F1, MYBL2, FOXM1 CDC20, CDCA8, CDCA2, CDCA3, NEK2, TPX2.",https://www-ncbi-nlm-nih-gov.access.library.unisa.edu.au/pmc/articles/PMC3040985/
+1,LEP,1,Yes,,,
+2,TREM1,1,Yes,,,
+3,BHLHE40,1,Yes,,,
+4,ENG,1,Yes,,,
+5,PVRL4,1,Yes,,,
+6,PROCR,1,Yes,,,
+7,NDRG1,1,Yes,,,
+8,LIMD1,1,Yes,,,
+9,FLNB,2,Yes,,,
+10,MMP1,2,Yes,,,
+11,IL1R2,1,Yes,,,
+13,SH3PXD2A,1,Yes,,,
+14,GAPDH,2,Yes,,,
+16,VCAM1,2,Yes,,,
+18,KIT,2,Yes,,,
+19,NTRK2,1,Yes,,,
+21,CEBPA,2,Yes,,,
+22,LYN,2,Yes,,,
+23,LTF,1,Yes,,,
+25,PTPRD,1,Yes,,,
+26,IL8,2,Yes,,,
+27,FN1,2,Yes,,,
+28,PHYHIP,2,Yes,,,
+29,HTRA1,2,Yes,,,
+32,SERPINE1,1,Yes,,,
+34,IGF1,2,Yes,,,
+35,EPHB6,1,Yes,,,
+37,DLX5,1,Yes,,,
+40,NRCAM,2,Yes,,,
+41,C10orf10,1,Yes,,,
+43,TXK,1,Yes,,,
+45,PRKAR1A,2,Yes,,,
+47,TLR7,1,Yes,,,
+49,IL1RAP,2,Yes,,,

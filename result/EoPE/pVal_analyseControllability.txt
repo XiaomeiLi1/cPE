@@ -1,0 +1,19 @@
+	1: # of nodes having links	4443	
+	2: # of edges	10861	
+	3: average degree	4.88904	
+ 
+	4: # of driver nodes	2014	
+	5: fraction of driver nodes = Nd/N	0.453297	
+ 
+	6: fraction of type-I critical nodes	0.161152	
+	7: fraction of type-I redundant nodes	0.387801	
+	8: fraction of type-I ordinary nodes	0.451047	
+ 
+	9: fraction of type-II critical nodes	0.237902	
+	10: fraction of type-II redundant nodes	0.387801	
+	11: fraction of type-II ordinary nodes	0.374297	
+ 
+	12: fraction of critical links	0.092625	
+	13: fraction of redundant links	0.400792	
+	14: fraction of ordinary links	0.506583	
+

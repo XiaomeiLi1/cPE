@@ -1,0 +1,9 @@
+	Number of nodes:	5489	
+	Number of TFs:	789	
+	Number of mRNAs:	4700	
+	
+	Number of edges:	10861	
+	Number of TF-TF edges:	1018	
+	Number of TF-mRNA edges:	696	
+	Number of mRNA-mRNA edges:	9147	
+

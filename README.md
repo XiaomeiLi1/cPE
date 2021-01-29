@@ -30,13 +30,15 @@ The input data are in the data folder and include:
 - gold_standard.rda - a literature-based database (dbPEC) for preeclampsia
 - proteinAffectingMut.rda - genes with preeclampsia related SNPs
 
-The output data are in the result folder and include:
+The output data and subfolder are in the result folder and include:
  - EoPE - results for early onset preeclampsia
  - LoPE - results for late onset preeclampsia
  - PE - results for preeclampsia
  - subtypes.xlsx - preeclampsia subtype specific critical genes
  
  Notes:
+ 
+ Differential analysis with preterm controls and withthout preterm controls are provided in result subfolder.
  
  The source code of controllability analysis can be downloaded from https://scholar.harvard.edu/yyl/code. Please compile it and put the libraray in a folder.
 

@@ -1,7 +1,6 @@
 # cPE
 ## Identifying preeclampsia-associated genes using a control theory method
-### Xiaomei Li<sup>1</sup>, Lin Liu<sup>1</sup>, Clare Whitehead<sup>2</sup>, Jiuyong Li<sup>1</sup>, Benjamin
-Thierry<sup>3</sup>,Thuc D. Le<sup>1</sup>, and Marnie Winter<sup>3</sup>
+### Xiaomei Li<sup>1</sup>, Lin Liu<sup>1</sup>, Clare Whitehead<sup>2</sup>, Jiuyong Li<sup>1</sup>, Benjamin Thierry<sup>3</sup>,Thuc D. Le<sup>1</sup>, and Marnie Winter<sup>3</sup>
 
 1. UniSA STEM, University of South Australia, Mawson Lakes, SA 5095, Australia
 2. Pregnancy Research Centre, Dept of Obstetrics & Gynaecology, University of Melbourne, Royal Women’s Hospital, Melbourne, VIC
